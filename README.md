@@ -11,24 +11,22 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...-->
-**About me**
+## About me
 
-- 💼 FrontEnd Engineer at [Razorpay](http://razorpay.com/)
+- 💼 Student at [CUMT](http://www.cumt.edu.cn)
 
-- 📈 Built github-readme-stats, verlyjs and more, **50m+** hits • **31K** stars on GitHub
+- 📈 热爱开源但是不懂git，把这里当仓库用的憨批
 
-- ❤️ I love writing TypeScript, and building fun experiments on type-level
+- ❤️ XCPC初学者，臭打铁的
 
-- 💬 Ask me about anything [here](https://github.com/anuraghazra/anuraghazra/issues)
+- 💬 有一个简陋的Blog记录我的学习历程 [here](https://www.lymone.cc)
 
-## Hello, guys! [![img](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif)](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif)
+  就酱
 
-```
-![javascript](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png)` `![typescript](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png)` `![react](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png)` `![graphql](https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png)` `![nodejs](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png)
-```
+## Hello, guys!
 
 ## 📈 GitHub Stats
 
 | ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LymoneLM&show_icons=true&theme=transparent) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LymoneLM&layout=compact)](https://github.com/anuraghazra/github-readme-stats) |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
-|                                                              |                                                              |
+
