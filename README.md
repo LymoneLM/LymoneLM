@@ -2,11 +2,11 @@
 
 - 💼 Student at [CUMT](http://www.cumt.edu.cn)
 
-- 📈 热爱开源但是不懂git，把这里当仓库用的憨批
+- 📈 热衷于开源事业，但总苦于无法为社区做出贡献
 
-- 💬 有一个简陋的Blog记录我的学习历程 [here](https://www.lymone.cc)
+- 🎮 也喜欢电子游戏，所以时常写一写模组和小工具
 
-  就酱
+- 💬 有一个简陋[且停更]的Blog记录我的学习历程 [here](https://www.lymone.cc)
 
 ## Hello, guys!
 
