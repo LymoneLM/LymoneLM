@@ -8,7 +8,9 @@
 
 - 💬 有一个简陋[且停更]的Blog记录我的学习历程 [here](https://www.lymone.cc)
 
-## Hello, guys!
+## 一些炫酷的主页小玩意
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=LymoneLM)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 📈 GitHub Stats
 
