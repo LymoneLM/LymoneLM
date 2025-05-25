@@ -2,8 +2,6 @@
 
 - 🌏 Native Chinese speakers, but also able to converse in English.
 
-- 💼 Study at [CUMT](http://www.cumt.edu.cn)
-
 - 💻 常受益于开源，故总在尝试为社区做出些贡献
 
 - 🎮 喜爱电子游戏，所以时常写一写模组和小工具
