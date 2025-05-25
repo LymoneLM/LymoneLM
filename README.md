@@ -8,7 +8,7 @@
 
 - 🎮 喜爱电子游戏，所以时常写一写模组和小工具
 
-- 📰 有一个简陋~~且停更~~的[Blog](https://www.lymone.cc)记录分享技术日常
+- 📰 有一个简陋~~且停更~~的[Blog](https://www.lymone.cc)记录分享技术和日常
 
 - 📧 Whatever the reason, fell free to email me.
 
