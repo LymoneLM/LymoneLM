@@ -8,7 +8,7 @@
 
 - 📰 有一个简陋~~且停更~~的[Blog](https://www.lymone.cc)记录分享技术和日常
 
-- 📧 Whatever the reason, fell free to email me.
+- 📧 Whatever the reason, feel free to email me.
 
 
 ## GitHub Stats
