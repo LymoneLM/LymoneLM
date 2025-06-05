@@ -12,14 +12,12 @@
 
 
 ## GitHub Stats
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=LymoneLM&show_icons=true&theme=transparent&include_all_commits=true&hide=contribs" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LymoneLM&layout=compact&theme=transparent&exclude_repo=LymoneLM.github.io" />
-</a>
 
-| ![LymoneLM's GitHub stats](https://github-readme-stats.vercel.app/api?username=LymoneLM&show_icons=true&theme=transparent&include_all_commits=true&hide=) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LymoneLM&layout=compact&theme=transparent&hide=HTML) |
-| ------------------------------------------------------------ | ------------------------------------------------------------ |
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=LymoneLM&show_icons=true&theme=transparent" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LymoneLM&layout=donut&theme=transparent&exclude_repo=LymoneLM.github.io" />
+</a>
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=LymoneLM&rank=-?&row=1&column=8)
