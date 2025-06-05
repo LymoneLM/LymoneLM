@@ -14,7 +14,7 @@
 ## GitHub Stats
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=LymoneLM&show_icons=true&theme=transparent" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=LymoneLM&show_icons=true&theme=transparent&show=prs_merged" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LymoneLM&layout=donut&theme=transparent&exclude_repo=LymoneLM.github.io" />
