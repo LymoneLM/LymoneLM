@@ -1,6 +1,6 @@
 ## About me
 
-- 🌏 Native Chinese speakers, but also able in English.
+- 🌏 Native Chinese speakers, but also able in Eng.
 
 - 💻 常受益于开源，故总在尝试为社区做出些贡献
 
@@ -8,7 +8,7 @@
 
 - 📰 有一个专一~~且充实~~的[Blog](https://www.lymone.cc)记录分享技术和日常
 
-- 📧 Whatever the reason, feel free to email me.
+- 📧 Whatever the reason is, feel free to email me.
 
 
 ## GitHub Stats
