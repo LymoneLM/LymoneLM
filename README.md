@@ -1,6 +1,6 @@
 ## About me
 
-- 🌏 Native Chinese speakers, but also able to converse in English.
+- 🌏 Native Chinese speakers, but also able in English.
 
 - 💻 常受益于开源，故总在尝试为社区做出些贡献
 
