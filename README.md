@@ -20,4 +20,4 @@
   <img align="center" src="https://github-stats-extended.vercel.app/api/top-langs/?username=LymoneLM&layout=compact&theme=transparent&exclude_repo=LymoneLM.github.io" />
 </a>
 
-![trophy](https://github-stats-extended.vercel.app/?username=LymoneLM&rank=-?&row=1&column=8)
+![LymoneLM](https://github-profile-trophy-tawny.vercel.app/?username=LymoneLM&rank=-?&row=1&column=8)
